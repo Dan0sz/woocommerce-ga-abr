@@ -3,7 +3,7 @@
  * @formatter:off
  * Plugin Name: ABR for WC GA Integration
  * Description: Adds an Adjusted Bounce Rate Event to WooCommerce Google Analytics Integration's tracking code.
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: Daan van den Bergh
  * Author URI: https://daan.dev
  * License: GPL2v2 or later

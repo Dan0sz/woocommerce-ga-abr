@@ -1,6 +1,6 @@
 # Adjusted Bounce Rate for WooCommerce Google Analytics Integration
 
-This unofficial for WordPress adds Adjusted Bounce Rate to WooCommerce Google Analytics Integration.
+This unofficial plugin for WordPress adds Adjusted Bounce Rate to WooCommerce Google Analytics Integration.
 
 ## Installation
 Click the big green button on this page to _clone or download_ the contents of this repository to `/path/to/wordpress-install-root/wp-content/plugins/woocommerce-ga-abr/`.
